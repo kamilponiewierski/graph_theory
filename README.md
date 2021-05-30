@@ -13,3 +13,6 @@ obliczają najkrótszą - najszybszą - drogę pomiędzy dwoma miejscowościami.
 
 Obecnie do tych celów używa się innych algorytmów (Dijkstra jest od nich wolniejsza),
 Google korzysta na przykład z [contraction hierarchies](https://en.wikipedia.org/wiki/Contraction_hierarchies)
+lub usprawnionych wersji Dijkstry, na przykład przegląda się graf z obu stron - ze startu i końca,
+tak żeby spotkały się w okolicach środka, albo dzieli graf na warstwy - autostrad, dróg głównych,
+i tak dalej, do dróg lokalnych.
