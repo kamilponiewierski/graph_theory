@@ -1,16 +1,29 @@
-13
+26
 Krakow Katowice 67 Kielce 140 Czestochowa 98 Warszawa 150 Tarnow 75
 Kielce Krakow 135 Warszawa 150 Tarnow 97
-Katowice Krakow 64 Wroclaw 167 Warszawa 256 Lodz 172 Czestochowa 95
+Katowice Krakow 64 Wroclaw 167 Warszawa 256 Lodz 172 Czestochowa 95 Ostrawa 67
 Czestochowa Katowice 95 Lodz 125
-Wroclaw Katowice 165 Poznan 144 Lodz 182 Legnica 70
-Poznan Wroclaw 142 Bydgoszcz 106 Szczecin 240 Warszawa 280 Lodz 182 Zielona_Gora 110
+Wroclaw Katowice 165 Poznan 144 Lodz 182 Legnica 70 Drezno 232
+Poznan Wroclaw 142 Bydgoszcz 106 Szczecin 240 Warszawa 280 Lodz 182 Zielona_Gora 110 Berlin 234
 Bydgoszcz Poznan 104 Warszawa 220 Szczecin 246
-Szczecin Poznan 240 Bydgoszcz 246 Zielona_Gora 178
+Szczecin Poznan 240 Bydgoszcz 246 Zielona_Gora 178 Berlin 122 Hamburg 305
 Warszawa Kielce 153 Bydgoszcz 223 Katowice 250 Krakow 150 Poznan 279 Lodz 116
 Lodz Warszawa 116 Katowice 170 Wroclaw 180 Poznan 187 Czestochowa 123
 Tarnow Krakow 75 Kielce 97
 Legnica Wroclaw 72 Zielona_Gora 93
 Zielona_Gora Legnica 92 Poznan 108 Szczecin 178
+Ostrawa Katowice 67 Brno 133
+Brno Ostrawa 133 Praga 188
+Praga Brno 188 Norymberga 251 Drezno 120
+Drezno Praga 120 Wroclaw 232
+Berlin Drezno 157 Poznan 234 Szczecin 122 Hamburg 255
+Hamburg Berlin 255 Kopenhaga 407 Szczecin 305
+Kopenhaga Hamburg 407 Malmo 31
+Goteborg Malmo 243 Sztokholm 406
+Sztokholm Goteborg 406 Karlskrona 400
+Malmo Kopenhaga 31 Goteborg 243 Karlskrona 177
+Karlskrona Malmo 177 Sztokholm 400
+Norymberga Praga 251 Stuttgart 169
+Stuttgart Norymberga 169
 Tarnow
-Szczecin
+Sztokholm
