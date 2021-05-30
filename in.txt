@@ -1,14 +1,16 @@
-11
+13
 Krakow Katowice 67 Kielce 140 Czestochowa 98 Warszawa 150 Tarnow 75
-Kielce Krakow 135 Warszawa 150
+Kielce Krakow 135 Warszawa 150 Tarnow 97
 Katowice Krakow 64 Wroclaw 167 Warszawa 256 Lodz 172 Czestochowa 95
 Czestochowa Katowice 95 Lodz 125
-Wroclaw Katowice 165 Poznan 144 Lodz 182 Szczecin 325
-Poznan Wroclaw 142 Bydgoszcz 106 Szczecin 192 Warszawa 280 Lodz 182
+Wroclaw Katowice 165 Poznan 144 Lodz 182 Legnica 70
+Poznan Wroclaw 142 Bydgoszcz 106 Szczecin 240 Warszawa 280 Lodz 182 Zielona_Gora 110
 Bydgoszcz Poznan 104 Warszawa 220 Szczecin 246
-Szczecin Poznan 193 Wroclaw 351 Bydgoszcz 246
+Szczecin Poznan 240 Bydgoszcz 246 Zielona_Gora 178
 Warszawa Kielce 153 Bydgoszcz 223 Katowice 250 Krakow 150 Poznan 279 Lodz 116
 Lodz Warszawa 116 Katowice 170 Wroclaw 180 Poznan 187 Czestochowa 123
-Tarnow Krakow 75
+Tarnow Krakow 75 Kielce 97
+Legnica Wroclaw 72 Zielona_Gora 93
+Zielona_Gora Legnica 92 Poznan 108 Szczecin 178
 Tarnow
 Szczecin
